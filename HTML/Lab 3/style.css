@@ -1,0 +1,45 @@
+.header {
+  background-color: black;
+  color: white;
+}
+.producer {
+  background-color: black;
+  text-align: center;
+  font-weight: bold;
+}
+.producer_info:nth-child(2n) {
+  background-color: #f0f0f0;
+}
+.producer_info:nth-child(2n+1) {
+  background-color: #c0c0c0;
+}
+.producer_header {
+  color: white;
+}
+.producer_subheader {
+  color: yellow;
+}
+.delays {
+  background-color: orange;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+.delays_info:nth-child(2n+1) {
+  background-color: #f0f0f0;
+}
+.delays_info:nth-child(2n) {
+  background-color: #c0c0c0;
+}
+.testing-result {
+  background-color: rgba(0, 0, 255, 0.76);
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+.testing-result_info:nth-child(2n) {
+  background-color: #f0f0f0;
+}
+.testing-result_info:nth-child(2n+1) {
+  background-color: #c0c0c0;
+}
