@@ -1,0 +1,1 @@
+console.log($('#my_links>li').find('a').prevObject);
